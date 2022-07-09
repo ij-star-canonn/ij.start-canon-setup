@@ -1,6 +1,6 @@
 # ij.start.canon
 
-[![ij.start.canon](getstaredd.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](lets-get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 Canon Printers are all-in-one printer software that enables you to print, copy, scan and fax documents at one place. It is easy to download the printer driver software. To download canon printer driver visit [ij.start.canon](https://github.com/ij-start-canon-setupp/ij.start-canon-setup) and enter your printer model that you want to download. Follow the simple procedure for installation of your mac device. 
 
